@@ -14,3 +14,7 @@ function createFareMultiplier(num1) {
     return num1 * num2;
   }
 }
+
+// const multiplier = function fareDoubler(num) {
+//   createFareMultiplier(num1)
+// }
